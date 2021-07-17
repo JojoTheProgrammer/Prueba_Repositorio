@@ -1,3 +1,5 @@
 Hola mi nombre es Victor Ibarra
 
-Soy el alumno de desarrollo web :)
+Soy el alumno de Git y Git Hub
+
+Me gustan las clases de Git
