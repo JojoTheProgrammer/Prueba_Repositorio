@@ -5,3 +5,5 @@ Soy el alumno de Git y Git Hub
 Me gustan las clases de Git
 
 Me encanta viajar por el mundo
+
+Me gusta las pastas la carne molida y el helado
