@@ -3,3 +3,5 @@ Hola mi nombre es Victor Ibarra
 Soy el alumno de Git y Git Hub
 
 Me gustan las clases de Git
+
+Me encanta viajar por el mundo
